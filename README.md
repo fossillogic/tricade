@@ -1,6 +1,6 @@
 # **Tricade – Fossil Project**
 
-**Tricade** is a command-line collection of classic text-based games, including Rock Paper Scissors, Guess the Number, Hangman, and more. It can be run interactively via a menu or directly from the command line for quick gameplay. This project template provides setup, compilation, installation, and running instructions for easy deployment, including Docker or GitHub publishing.
+**Tricade** is a command-line collection of classic text-based games, including Rock Paper Scissors, Guess the Number, Hangman, and more. It can be run interactively via a menu or directly from the command line for quick gameplay.
 
 ## **Prerequisites**
 
